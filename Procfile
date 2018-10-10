@@ -1,1 +1,1 @@
-web: plugins/BukkitWebby/html/index.html
+web: java -jar plugins/BukkitWebby.jar
